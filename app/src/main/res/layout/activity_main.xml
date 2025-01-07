@@ -12,7 +12,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/player_x_turn"
-        android:textSize="18sp"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        android:textColor="@color/color1"
         android:layout_marginBottom="16dp"/>
 
     <GridLayout
