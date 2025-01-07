@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="player_x_turn">Player X\'s Turn</string>
+    <string name="player_o_turn">Player O\'s Turn</string>
+    <string name="btn_text_empty"> </string>
+    <string name="cell_1">Cell 1</string>
+    <string name="cell_2">Cell 2</string>
+    <string name="cell_3">Cell 3</string>
+    <string name="cell_4">Cell 4</string>
+    <string name="cell_5">Cell 5</string>
+    <string name="cell_6">Cell 6</string>
+    <string name="cell_7">Cell 7</string>
+    <string name="cell_8">Cell 8</string>
+    <string name="cell_9">Cell 9</string>
+    <string name="play_again">Play Again</string>
 </resources>
