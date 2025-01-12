@@ -6,7 +6,7 @@
     <color name="color2">#8D99AE</color>
     <color name="color3">#EDF2F4</color>
     <color name="color4">#EF233C</color>
-    <color name="color5">#D90429</color>
-    <color name="color6">#FCBF49</color>
+    <color name="colorX">#D90429</color>
+    <color name="colorO">#FCBF49</color>
     <color name="color7">#EAE2B7</color>
 </resources>
